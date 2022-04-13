@@ -1,0 +1,32 @@
+.cvt{
+    text-align: center;
+    font-family: 'Georgia', cursive;
+    font-size: 55px;
+	margin-top: 10px;
+}
+
+.service1{
+    width: 368px;
+    height:368px;
+    align-items: center;
+}
+
+.vname{
+    font-family: 'Georgia', cursive;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.items{
+    font-family: 'Georgia', cursive;
+}
+
+.divs3{
+    height: 830px;
+    background-color:#f6f7f7;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}

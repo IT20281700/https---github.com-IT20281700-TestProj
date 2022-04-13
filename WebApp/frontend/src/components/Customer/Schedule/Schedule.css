@@ -1,0 +1,19 @@
+.selectVehicle{
+    width:250px;
+}
+
+.taskSelect{
+    border:1px solid;
+    border-radius: 10px;
+    padding:30px;
+    width:250px;
+}
+
+.detailsSM{
+    border-left: 5px solid;
+    padding-left: 100px;
+}
+
+.selectSM{
+    margin-right: 100px;
+}

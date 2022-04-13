@@ -1,0 +1,153 @@
+.vehiTypeBtnSet {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  margin-left: 20px;
+}
+
+.BtnVehiType {
+  width: 355px;
+  height: 650px;
+  border-radius: 10px;
+  border-width: 1px;
+  position: relative;
+}
+
+.car {
+  transition: 0.3s;
+}
+
+.car::before {
+  content: '';
+  background-image: url(https://www.teahub.io/photos/full/28-281805_modified-car-wallpapers-hd.jpg);
+  background-size: cover;
+  background-position-x: -200px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.3;
+  border-radius: 10px;
+}
+
+.car:hover {
+  background-color: #282c34;
+}
+
+.bike {
+  transition: 0.3s;
+  margin-left: 18px;
+}
+
+.bike::before {
+  content: '';
+  background-image: url(https://cdn.wallpapersafari.com/66/21/cz7Jvt.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.3;
+  border-radius: 10px;
+}
+
+.bike:hover {
+  background-color: #282c34;
+}
+
+.wheel {
+  transition: 0.3s;
+  margin-left: 18px;
+}
+
+.wheel::before {
+  content: '';
+  background-image: url(../images/wheelTypeBtn.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.3;
+  border-radius: 10px;
+}
+
+.wheel:hover {
+  background-color: #282c34;
+}
+
+.utility {
+  transition: 0.3s;
+  margin-left: 18px;
+}
+
+.utility::before {
+  content: '';
+  background-image: url(https://www.driven.co.nz/media/82715/110316nzhtbjeep01.jpg);
+  background-size: cover;
+  background-position-x: -400px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.3;
+  border-radius: 10px;
+}
+
+.utility:hover {
+  background-color: #282c34;
+}
+
+.other {
+  transition: 0.3s;
+  margin-left: 18px;
+}
+
+.other::before {
+  content: '';
+  background-image: url(../images/otherTypeBtn.jpg);
+  background-size: cover;
+  background-position-x: -75px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.3;
+  border-radius: 10px;
+}
+
+.other:hover {
+  background-color: #282c34;
+}
+
+.ChamobtnText {
+  position: absolute;
+  color: rgb(0, 0, 0);
+  height: 650px;
+  width: 380px;
+  font-weight: 1000;
+  top: 0;
+  left: -0.1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: 0.3s;
+  letter-spacing: 13px;
+}
+
+.ChamobtnText:hover {
+  color: white;
+}

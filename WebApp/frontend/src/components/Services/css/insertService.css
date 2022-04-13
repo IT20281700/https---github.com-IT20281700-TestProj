@@ -1,0 +1,30 @@
+.maindiv{
+    background-color: #f6f7f7;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #D3D3D3;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom:60px ;
+}
+
+.leble{
+    font-family: 'Georgia', cursive;
+    font-size: 18px;
+}
+
+.radio{
+    font-family: 'Georgia', cursive;
+    font-size: 16px;
+}
+
+.radioDiv{
+    margin-left: 20px;
+}
+
+.isd{
+    text-align: center;
+    font-family: 'Georgia', cursive;
+    font-size: 55px;
+	margin-top: 10px;
+}

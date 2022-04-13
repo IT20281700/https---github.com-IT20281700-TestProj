@@ -1,0 +1,206 @@
+.newPlanContainer {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 75%;
+  min-height: 500px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #292a2c;
+}
+
+.idInForm {
+  float: left;
+  width: 100%;
+}
+
+.idLabel {
+  color: #bbbbb9;
+  padding-right: 10px;
+}
+
+.adding {
+  width: 50% !important;
+  text-align: left;
+  padding-left: 25px !important;
+  border-radius: 5px !important;
+  background-color: #242424 !important;
+  color: rgb(236, 109, 109) !important;
+  height: 35px;
+  border: 1px solid black;
+}
+
+.cfc {
+  width: 100%;
+  height: auto;
+}
+
+.planDetails {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  min-height: 50px;
+  width: 80%;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+.title-label {
+  width: 150px;
+  font-size: 18px;
+}
+
+.plan-title {
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  border: none;
+  border-bottom: 2px solid black;
+  transition: 0.3s;
+}
+
+.plan-title:hover {
+  border-color: chartreuse;
+}
+
+.plan-title:focus {
+  outline: none;
+  border-color: chartreuse;
+}
+
+.selector {
+  display: flex;
+  position: relative;
+}
+
+.f-con {
+  padding-bottom: 15px;
+  background-color: #242424;
+  border: 1px solid black;
+  color: #bbbbb9 !important;
+}
+
+.f-con:focus {
+  background-color: #292a2c;
+}
+
+.lab {
+  color: #7e7d7c;
+}
+
+.sel {
+  min-width: 300px;
+  padding-top: 10px;
+  float: left;
+}
+
+.quantitySel:focus {
+  background-color: #292a2c;
+}
+
+.ta {
+  margin-top: 25px;
+}
+
+.bill {
+  width: 60%;
+  min-height: 160px;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.invo {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 3px;
+  background-color: rgb(170, 170, 170);
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.billDetail {
+  position: relative;
+}
+
+.labelBill {
+  width: 200px;
+  float: left;
+  color: #bbbbb9;
+  padding: 4.5px;
+}
+.allbillLabels {
+  width: 200px;
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.inputBill {
+  float: right;
+  margin-bottom: 5px;
+  padding-right: 10px;
+  text-align: right;
+  -moz-appearance: textfield;
+  background-color: #242424;
+  border: 1px solid black;
+  color: #bbbbb9;
+  font-weight: bold;
+}
+
+.inputBill:focus {
+  background-color: #292a2c;
+}
+
+.allbillInputs {
+  width: 150px;
+  display: inline-block;
+  margin-right: 25px;
+  float: right;
+}
+
+.dis {
+  color: green;
+}
+
+.dis::placeholder {
+  color: green;
+}
+
+.inputBill::-webkit-outer-spin-button,
+.inputBill::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.sep {
+  margin-top: 30px;
+  border: 2px solid black;
+}
+
+.btnCon {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btns {
+  width: 272px;
+  margin-right: 5px;
+  background-color: #242424;
+  border: 1px solid black;
+}
+
+.btns:hover {
+  background-color: #292a2c;
+  border: 1px solid black;
+}
+
+.btns:focus {
+  background-color: #242424;
+}
+
+.create:focus {
+  color: green;
+}

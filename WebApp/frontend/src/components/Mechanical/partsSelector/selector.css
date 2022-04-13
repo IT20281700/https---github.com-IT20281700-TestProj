@@ -1,0 +1,26 @@
+.multiSelectContainer {
+  background-color: #242424;
+  color: #bbbbb9;
+}
+
+.searchWrapper {
+  border: 1px solid black;
+}
+
+.optionListContainer {
+  background-color: black !important;
+}
+
+.optionContainer {
+  background-color: #242424 !important;
+  border: 1px solid black !important;
+}
+
+.optionContainer li:hover {
+  background-color: #292a2c;
+}
+
+.chip {
+  border-radius: 5px;
+  background-color: #292a2c;
+}

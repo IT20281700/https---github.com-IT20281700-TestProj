@@ -1,0 +1,40 @@
+.rtopic{
+    text-align: center;
+    font-family: 'Georgia', cursive;
+    font-size: 48px;
+}
+
+.rboder{
+    border: 2px solid rgb(5, 5, 5);
+    background-color: #f0f0f1;
+    margin: auto;
+    margin-top: 30px;
+    padding: 50px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.returneq1{
+    font-size: 23px;
+    word-spacing: 38px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+}
+
+.returneq2{
+    font-size: 23px;
+    word-spacing: 8px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+}
+
+.requ1_1{
+    font-size: 22px;
+    word-spacing: 10px;
+}
+
+.requ1_2{
+    font-size: 22px;
+    word-spacing: 10px;
+}

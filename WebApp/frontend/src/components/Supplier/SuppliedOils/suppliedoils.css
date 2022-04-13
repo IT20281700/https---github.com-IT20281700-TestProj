@@ -1,0 +1,8 @@
+.sawrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.SCcard{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,70 @@
+.selectequ{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Georgia', cursive;
+}
+
+.boderequ{    
+    margin: auto;
+    margin-left:190px;
+    border: 3.5px solid rgb(5, 5, 5);
+    width: 800px;
+    background-color: #f0f0f1;
+    padding-bottom: 13px;
+
+    
+}
+
+.obeq{
+    margin-top:40px;
+    margin-left:100px;
+    font-family: 'Georgia', cursive;
+    width:500px;
+
+}
+
+.equ1{
+    font-size: 28px;
+    word-spacing: 180px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+    color: black;
+}
+.equ1_1{
+    font-size: 28px;
+    word-spacing: 10px;
+    color: black;
+}
+
+.equ2{
+    font-size: 28px;
+    word-spacing: 220px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+    color: black;
+}
+.equ1_2{
+    font-size: 28px;
+    word-spacing: 10px;
+    color: black;
+}
+
+.equ3{
+    font-size: 28px;
+    word-spacing: 14px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+    color: black;
+}
+.equ1_3{
+    font-size: 28px;
+    word-spacing: 10px;
+    color: black;
+    
+}
+
+.topic{
+    text-align: center;
+    font-family: 'Georgia', cursive;
+    font-size: 48px;
+}

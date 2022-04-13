@@ -1,0 +1,40 @@
+.cardWrapper1 {
+  perspective: 1000px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  width: 450px;
+  min-height: 80%;
+  display: inline-block;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+.cardWrapper2 {
+  perspective: 1000px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  width: 450px;
+  min-height: 80%;
+  display: inline-block;
+  margin-top: 30px;
+  margin-right: 10px;
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  -webkit-backface-visibility: hidden !important;
+  -moz-backface-visibility: hidden !important;
+  backface-visibility: hidden !important;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #b4b4b456;
+  border-radius: 15px;
+  width: 450px;
+  min-height: 700px;
+  background-color: rgba(249, 255, 225, 0.815);
+  position: absolute;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+}

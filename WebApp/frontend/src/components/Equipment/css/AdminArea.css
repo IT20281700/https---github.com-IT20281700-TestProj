@@ -1,0 +1,86 @@
+.topic{
+    text-align: center;
+    font-family: 'Georgia', cursive;
+    font-size: 48px;
+}
+
+.boderadmin{    
+    margin: auto;
+    margin-left: 70px;
+    border: 3.5px solid rgb(5, 5, 5);
+    width: 1200px;
+    background-color: #f0f0f1;
+    padding-bottom: 13px;  
+    height: 335px;
+}
+
+.admineq{
+    margin-top:45px;
+    margin-left:-25px;
+    font-family: 'Georgia', cursive;
+    width:500px;
+
+}
+
+.adminequ1{
+    font-size: 22px;
+    word-spacing: 137px;
+    line-height: 3;
+    font-family: 'Georgia', cursive;
+}
+
+.adminequ2{
+    font-size: 22px;
+    word-spacing: 168px;
+    line-height: 3;
+    font-family: 'Georgia', cursive;
+}
+
+.adminequ3{
+    font-size: 22px;
+    word-spacing: 8px;
+    line-height: 3;
+    font-family: 'Georgia', cursive;
+}
+
+.aequ1{
+    font-size: 22px;
+    word-spacing: 150px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+}
+.aequ1_1{
+    font-size: 22px;
+    word-spacing: 10px;
+}
+
+.aequ2{
+    font-size: 22px;
+    word-spacing: 180px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+}
+.aequ1_2{
+    font-size: 22px;
+    word-spacing: 10px;
+}
+
+.aequ3{
+    font-size: 22px;
+    word-spacing: 14px;
+    line-height: 2;
+    font-family: 'Georgia', cursive;
+}
+.aequ1_3{
+    font-size: 22px;
+    word-spacing: 10px;
+}
+
+.admininput{
+    width: 415px;
+    margin-left: 30px;
+    height: 40px;
+    text-align: center;
+    font-family: 'Georgia', cursive;
+    font-size: 22px;
+}
